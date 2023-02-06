@@ -40,7 +40,7 @@ include_once( "../includes/documento-declaracion.php" )
 <section class="content-section text-center Portfolio" >
     <div class="container">
         <header>
-            <h1>Categoria 1</h1>
+            <h1>Categoría 1</h1>
         </header>
         <main>
             <section class="galeria">
